@@ -1,4 +1,4 @@
 cal++
 =====
 
-A better calendar web app
+A better calendar web app by CS50
